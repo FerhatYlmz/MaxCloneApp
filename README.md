@@ -1,17 +1,27 @@
 📱 Geliştirdiğim uygulama, içerik keşfini kolaylaştıran modern bir arayüz sunuyor ve Max tarzı bir kullanıcı deneyimi hedefliyor.
 
 🔧 Projede Kullandığım Yapı ve Teknolojiler:
+
 • Kotlin + XML
+
 • MVVM mimarisi
+
 • ViewBinding
+
 • Navigation Component
+
 • Retrofit ile API üzerinden veri çekme
+
 • Hilt ile dependency injection
+
 • SearchView ile filtreleme
+
 • ConstraintLayout ile responsive tasarım
-• Çoklu dil desteği
+
 • Karanlık mod uyumu
+
 • Farklı ekran boyutlarına duyarlılık
+
 
 🎯 Bu proje, yalnızca teknik becerilerimi geliştirmekle kalmadı; aynı zamanda modüler mimari, okunabilir kod yapısı ve kullanıcı deneyimi tasarımı konusunda da önemli kazanımlar elde etmemi sağladı.
 
